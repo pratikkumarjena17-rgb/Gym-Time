@@ -1,0 +1,6 @@
+{
+  "name": "Gym Tracker",
+  "description": "Comprehensive gym workout tracking, progress monitoring, personalized nutrition planner, community achievements, monthly challenges, and motivation reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
